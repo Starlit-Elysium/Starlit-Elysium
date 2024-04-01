@@ -7,7 +7,7 @@ game-ticker-unknown-role = Unknown
 game-ticker-delay-start = Round start has been delayed for {$seconds} seconds.
 game-ticker-pause-start = Round start has been paused.
 game-ticker-pause-start-resumed = Round start countdown is now resumed.
-game-ticker-player-join-game-message = [color=#87e7ff]Welcome to Starlit Elysium![/color]
+game-ticker-player-join-game-message = Welcome to Starlit Elysium!
 game-ticker-get-info-text = Hi and welcome to [color=white]Space Station 14![/color]
                             The current round is: [color=white]#{$roundId}[/color]
                             The current player count is: [color=white]{$playerCount}[/color]
